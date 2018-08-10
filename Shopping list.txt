@@ -1,0 +1,4 @@
+Asparagus ; Broccoli ; Carrots ; Cauliflower  Apples ; Avocados ; Bananas ; Berries ; Cherries ; Grapefruit ; Baking powder  ; Bread crumbs ; Cake ; Cake icing ; Batteries ; Charcoal ; Greeting card ; Air freshener ; Bathroom cleaner ; Detergent ;  Dishwasher soap
+Corn ; Cucumbers ; Lettuce ; Mushrooms ; Apples ; Avocados ; Bananas ; Berries ; Cherries ; Grapefruit ; Gum ; Cookies ; Crackers ; Dried fruit ; Bouillon cubes ; Cereal ; Coffee ; Baking powder ; Bread crumbs ; Cake ; Cake icing ;  Cocoa
+Asparagus ; Broccoli ; Carrots ; Cauliflower ; Celery ; Corn ; Cucumbers  ; Berries ; Cherries ; Grapefruit ; Grapes ; Kiwis ; Lemons ; Baking powder ; Bread crumbs ; Cake ; Cake icing ; Air freshener ; Bathroom cleaner ; Detergent ; Dishwasher soap
+Celery ; Corn ; Cucumbers  ; Berries ; Cherries ; Soap
